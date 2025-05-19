@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
 
+## Package transloco
+
+Transloco package [Transloco](https://jsverse.gitbook.io/transloco/getting-started/installation)
+
 ## Development server
 
 To start a local development server, run:

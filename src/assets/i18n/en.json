@@ -1,0 +1,8 @@
+{
+  "title": "Hello world in: {{ language }}",
+  "paragraph": "Angular application with i18n translations using transloco",
+  "languages": {
+    "es": "Español",
+    "en": "English"
+  }
+}
